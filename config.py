@@ -45,7 +45,7 @@ DB_NAME = environ.get("DB_NAME", "EXONTESTMONGO")
 # Ask Doubt on telegram @KingVJ01
 
 # Bot Information
-BOT_TOKEN = environ.get("BOT_TOKEN", "7097363314:AAH7Mg8HcmbwOsLhs6Zo_Qzl64qkkTS82Sc")
+BOT_TOKEN = environ.get("BOT_TOKEN", "7180738429:AAH6CYQsNPKgQ97ox5iMyE61gKq5rldWZwU")
 BOT_USERNAME = environ.get("BOT_USERNAME", "storexsynaxbot") # your bot username without @
 PICS = (environ.get('PICS', 'https://graph.org/file/ead232bdf6d73db383af8.jpg https://graph.org/file/74cef5035eef4e808786e.jpg https://graph.org/file/b71647a6fe92860ba3bf3.jpg https://graph.org/file/22c9a699ba64bfdefd95f.jpg https://graph.org/file/8333e9c53e2708a201954.jpg https://graph.org/file/db216d56bc6b2e48fa751.jpg https://graph.org/file/cea3e1afb502d03dcbc02.jpg')).split() # Bot Start Picture
 
